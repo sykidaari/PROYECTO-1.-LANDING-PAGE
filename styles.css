@@ -134,7 +134,7 @@ header img:nth-of-type(1) {
   gap: 10px;
   padding: 10px;
   position: absolute;
-  top: 58px;
+  top: 7svh;
   right: 0;
   background-color: var(--skdr-color-highlight);
   width: 100vw;
